@@ -11,11 +11,11 @@ function App() {
   const themeStyles = {
     Hithesh: {
       backgroundColor: "blue",
-      text: "Hi ,this is  Hithesh .Welcome to my theme",
+      text: "Hi ,this is Hithesh. Welcome to theme.",
     },
     Shafeek: {
       backgroundColor: "grey",
-      text: "Hi ,this is  Shafeek .Welcome to my theme.",
+      text: "Hi ,this is  Shafeek. Welcome to theme.",
     },
   };
 
